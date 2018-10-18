@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Football Match</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Football Match</string>
+    <string name="goals">Goals</string>
+    <string name="goalkeeper">Goalkeeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="forward">Forward</string>
+    <string name="vs">VS</string>
+    <string name="detail_match">Detail Match</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorites</string>
+    <string name="info">Belum ada list favorite</string>
+    <string name="menu_search">Menu Search</string>
+    <string name="match">Match</string>
+    <string name="team">Team</string>
+    <string name="image_club">Image Club</string>
+    <string name="background">Background</string>
+    <string name="logo">Logo</string>
+    <string name="player_height_m">Player Height (m)</string>
+    <string name="weight_kg">Weight (kg)</string>
+</resources>
